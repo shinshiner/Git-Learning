@@ -1,3 +1,8 @@
+## Push相关
+* 添加当前目录中的所有文件到索引 `git add .`
+* 提交到本地源码库，并附加提交注释 `git commit -m "first commit"`
+* 把本地源码库push到github `git push -u origin master`
+
 ## 分支操作
 * 列出所有本地分支 `git branch`
 * 列出所有远程分支 `git branch -r`
