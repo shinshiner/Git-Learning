@@ -1,6 +1,6 @@
 ## Pull相关
 * 取回origin主机的a分支与本地的b分支合并 `git pull origin a:b`
-* 取回origin主机的a分支与本地的当前分支合并 `git pull origin a`,相当于这两条命令:`git fetch origin; git merge origin/a`
+* 取回origin主机的a分支与本地的当前分支合并 `git pull origin a`，相当于这两条命令: `git fetch origin; git merge origin/a`
 
 ## Push相关
 * 添加当前目录中的所有文件到索引 `git add .`
