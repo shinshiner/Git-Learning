@@ -18,3 +18,8 @@
 * 删除本地分支 `git branch -d [branch-name]`
 * 删除远程分支 `git push origin --delete <branchName>`
 * 推送本地分支 `git push origin [branch-name]`
+
+## Reference
+* [pull](http://www.yiibai.com/git/git_pull.html)
+* [push](http://www.jianshu.com/p/c4ee2eb010ac)
+* [branch](http://blog.csdn.net/arkblue/article/details/9568249/)
