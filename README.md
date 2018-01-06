@@ -1,4 +1,4 @@
-Git相关命令
+## Git相关命令
 * [pull](https://github.com/shinshiner/Git-Learning/blob/master/pull.md)
 * [push](https://github.com/shinshiner/Git-Learning/blob/master/push.md)
 * [branch](https://github.com/shinshiner/Git-Learning/blob/master/branch.md)
