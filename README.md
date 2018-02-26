@@ -1,3 +1,5 @@
+**This repo has stopped updating. For more information, you can refer to [my blog](https://shinshiner.github.io/2018/02-05-git-cmd.html)......**
+
 ## Git相关命令
 * [pull](https://github.com/shinshiner/Git-Learning/blob/master/pull.md)
 * [push](https://github.com/shinshiner/Git-Learning/blob/master/push.md)
